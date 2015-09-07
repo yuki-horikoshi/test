@@ -14,7 +14,7 @@ class Controller_Test extends Controller
 		}
 
 		# Macで追加
-		$b = 38;
+		$b = 39;
 		echo $b;
 
 		return ;
