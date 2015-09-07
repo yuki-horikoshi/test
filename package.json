@@ -5,8 +5,7 @@
     "url": "https://github.com/yuki-horikoshi/test.git"
   },
   "scripts": {
-    "precommit": "testcom",
-    "precommit": "testcom02"
+    "precommit": "testcom02",
   },
   "devDependencies": {
     "husky": "~0.10.1"
