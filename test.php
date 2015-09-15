@@ -13,7 +13,7 @@ class Controller_Test extends Controller
 		}
 
 		# Macで追加
-		$b = 300;
+		$b = "test002";
 		echo $b;
 
 		return ;
